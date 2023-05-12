@@ -1,8 +1,8 @@
-How can I troubleshoot audio? Audio issues. 	
-Check to make sure that excessive background or personal computer noise are reduced or eliminated.
-
-What if the volume is low? Volume is low. 	
-First, make sure the volume on your headset is all the way to 100. Also look at the volume of the computer itself outside of AWS as well as inside of AWS.
-
-Whys is Avaya OneX not logging in?	
-Make sure you are using your assigned extension in Avaya OneX. If you are, you can close Avaya and run the Agent Configuration for your site again.
+What is your name?  My name is Bot.
+How can you help me?  I can answer common questions and provide information about a variety of topics.
+What is the meaning of life?  That's a difficult question to answer. There are many different opinions on what the meaning of life is, and it's ultimately up to each individual to determine their own meaning.
+How do I contact support?  You can contact support by sending an email to support@company.com or by calling our support line at 555-1234.
+How do I reset my password?  To reset your password, go to the login page and click the "forgot password" link. Follow the instructions to reset your password.
+What are your hours of operation?  I'm available 24/7 to answer your questions and provide assistance.
+What is the return policy?  Our return policy is 30 days from the date of purchase. You can find more information on our website.
+How do I place an order?  You can place an order on our website or by calling our sales line at 555-5678.
